@@ -1,0 +1,15 @@
+/home/benja/Documentos/Ffmpeg/bin/Debug/net7.0/Ffmpeg
+/home/benja/Documentos/Ffmpeg/bin/Debug/net7.0/Ffmpeg.deps.json
+/home/benja/Documentos/Ffmpeg/bin/Debug/net7.0/Ffmpeg.runtimeconfig.json
+/home/benja/Documentos/Ffmpeg/bin/Debug/net7.0/Ffmpeg.dll
+/home/benja/Documentos/Ffmpeg/bin/Debug/net7.0/Ffmpeg.pdb
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.csproj.AssemblyReference.cache
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.GeneratedMSBuildEditorConfig.editorconfig
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.AssemblyInfoInputs.cache
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.AssemblyInfo.cs
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.csproj.CoreCompileInputs.cache
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.dll
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/refint/Ffmpeg.dll
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.pdb
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/Ffmpeg.genruntimeconfig.cache
+/home/benja/Documentos/Ffmpeg/obj/Debug/net7.0/ref/Ffmpeg.dll

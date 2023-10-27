@@ -1,0 +1,3 @@
+/home/benja/Documentos/Mp3/benja1.mp3
+/home/benja/Documentos/Mp3/archivo.mp3
+/home/benja/Documentos/Mp3/benj.mp3
